@@ -1,4 +1,4 @@
-<header>
+#HEADING SKILLS TO GITHUB
 
 <!--
   <<< Author notes: Course header >>>
